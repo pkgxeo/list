@@ -1,0 +1,12 @@
+[submodule "env"]
+	path = env
+	url = https://github.com/pkgxeo/env
+[submodule "fs"]
+	path = fs
+	url = https://github.com/pkgxeo/fs
+[submodule "template"]
+	path = template
+	url = https://github.com/pkgxeo/template
+[submodule "printc"]
+	path = printc
+	url = https://github.com/pkgxeo/printc
